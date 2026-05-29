@@ -9,7 +9,7 @@ VIC is a custom ERC-20 token deployed on the OPN Testnet (chainId 984).
 
 | Contract | Address | Explorer |
 |---|---|---|
-| VIC Token | `0x75E0A13157AA33E9DC83ce7cb421EFB8C182084e` | [View](https://testnet.iopn.tech/address/0x75E0A13157AA33E9DC83ce7cb421EFB8C182084e) |
+| VIC Token | 0xBc3e76A0C8721a546AD60cFE0F7B05Fdd84302c7 | [View](https://testnet.iopn.tech/address/0x75E0A13157AA33E9DC83ce7cb421EFB8C182084e) |
 
 ---
 
